@@ -1,0 +1,67 @@
+{
+  "timestamp": "2025-11-02T08:40:07.853Z",
+  "data": {
+    "timestamp": "2025-11-02T08:40:07.496Z",
+    "brand": {
+      "brand_name": "Bandhan Store",
+      "brand_tagline": "",
+      "brand_logo": "/organizations/bandhan/upload_image/brand_brandlogo_1.avif"
+    },
+    "categories": [
+      {
+        "category_name": "",
+        "category_image": ""
+      }
+    ],
+    "hero": [
+      {
+        "title": "",
+        "image": "/organizations/bandhan/upload_image/Hero_1.jpg",
+        "category": ""
+      },
+      {
+        "title": "",
+        "image": "/organizations/bandhan/upload_image/Hero_2.webp",
+        "category": ""
+      },
+      {
+        "title": "",
+        "image": "/organizations/bandhan/upload_image/Hero_3.webp",
+        "category": ""
+      }
+    ],
+    "instagram": [],
+    "news": [
+      {
+        "headline": "Steal Deal : New Arrivals UPTO 20% Off!",
+        "link": ""
+      },
+      {
+        "headline": "PAY DAY SALE LIVE | Flat 20% Off: SALARY20 & Flat 15% Off: SALARY15",
+        "link": ""
+      }
+    ],
+    "story": [
+      {
+        "title": "",
+        "video": "",
+        "description": ""
+      }
+    ],
+    "footer": {
+      "footer_company": "",
+      "footer_address": "",
+      "footer_phone": "",
+      "footer_email": "",
+      "footer_copyright": ""
+    },
+    "subpages": [],
+    "NewArrival": [],
+    "Mix": []
+  },
+  "filename": "2025-11-02-141007-configuration.json",
+  "userEmail": "nitikesh@tambnick25.onmicrosoft.com",
+  "userName": "nitikesh",
+  "organizationName": "Bandhan",
+  "workspaceType": "organization"
+}

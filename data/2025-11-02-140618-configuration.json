@@ -1,0 +1,63 @@
+{
+  "timestamp": "2025-11-02T08:36:19.184Z",
+  "data": {
+    "timestamp": "2025-11-02T08:36:18.793Z",
+    "brand": {
+      "brand_name": "",
+      "brand_tagline": "",
+      "brand_logo": ""
+    },
+    "categories": [
+      {
+        "category_name": "",
+        "category_image": ""
+      }
+    ],
+    "hero": [
+      {
+        "title": "",
+        "image": "/organizations/bandhan/upload_image/Hero_1.jpg",
+        "category": ""
+      },
+      {
+        "title": "",
+        "image": "/organizations/bandhan/upload_image/Hero_2.webp",
+        "category": ""
+      },
+      {
+        "title": "",
+        "image": "/organizations/bandhan/upload_image/Hero_3.webp",
+        "category": ""
+      }
+    ],
+    "instagram": [],
+    "news": [
+      {
+        "headline": "",
+        "link": ""
+      }
+    ],
+    "story": [
+      {
+        "title": "",
+        "video": "",
+        "description": ""
+      }
+    ],
+    "footer": {
+      "footer_company": "",
+      "footer_address": "",
+      "footer_phone": "",
+      "footer_email": "",
+      "footer_copyright": ""
+    },
+    "subpages": [],
+    "NewArrival": [],
+    "Mix": []
+  },
+  "filename": "2025-11-02-140618-configuration.json",
+  "userEmail": "nitikesh@tambnick25.onmicrosoft.com",
+  "userName": "nitikesh",
+  "organizationName": "Bandhan",
+  "workspaceType": "organization"
+}

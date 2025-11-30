@@ -1,0 +1,182 @@
+{
+  "timestamp": "2025-11-02T08:54:23.211Z",
+  "data": {
+    "timestamp": "2025-11-02T08:54:22.818Z",
+    "brand": {
+      "brand_name": "Bandhan Store",
+      "brand_tagline": "",
+      "brand_logo": "/organizations/bandhan/upload_image/brand_brandlogo_1.avif"
+    },
+    "categories": [
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_name": "SHERWANIS",
+        "category_image": "/organizations/bandhan/upload_image/Subpage2_Product3.avif",
+        "category_description": "",
+        "category_linked_subpage_name": "SHERWANIS",
+        "category_linked_subpage_radio": "subpage_1762073663211_0",
+        "category_cover_product": {
+          "subpageIndex": 0,
+          "productIndex": 2,
+          "productName": "Grape Wine Jaal Embroidered Sherwani Set with Stone Work"
+        }
+      }
+    ],
+    "hero": [
+      {
+        "title": "",
+        "image": "/organizations/bandhan/upload_image/Hero_1.jpg",
+        "category": ""
+      },
+      {
+        "title": "",
+        "image": "/organizations/bandhan/upload_image/Hero_2.webp",
+        "category": ""
+      },
+      {
+        "title": "",
+        "image": "/organizations/bandhan/upload_image/Hero_3.webp",
+        "category": ""
+      }
+    ],
+    "instagram": [],
+    "news": [
+      {
+        "headline": "Steal Deal : New Arrivals UPTO 20% Off!",
+        "link": ""
+      },
+      {
+        "headline": "PAY DAY SALE LIVE | Flat 20% Off: SALARY20 & Flat 15% Off: SALARY15",
+        "link": ""
+      }
+    ],
+    "story": [
+      {
+        "title": "",
+        "video": "",
+        "description": ""
+      }
+    ],
+    "footer": {
+      "footer_company": "",
+      "footer_address": "",
+      "footer_phone": "",
+      "footer_email": "",
+      "footer_copyright": ""
+    },
+    "subpages": [
+      {
+        "name": "SHERWANIS",
+        "products": [
+          {
+            "code": "SHERWANIS-001",
+            "name": "Pearl White Bel Buti Patterned Jacket",
+            "price": "5421",
+            "original_price": "9764",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage2_Product1.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage1_Product1_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product1_sub2.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product1_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product1_sub4.avif"
+            ],
+            "description": "With gilded bel buti patterns, this pearl white Nehru jacket showcases the elegance of Jacquard weave. The design is complemented by a welted pocket and ornate buttons, adding a touch of traditional sophistication. Ideal for formal occasions and weddings, this jacket can be paired with pastel hued kurta sets and matching pearl white jutis for a refined and ceremonial look.",
+            "isCategoryCover": false
+          },
+          {
+            "code": "SHERWANIS-002",
+            "name": "Cream Bel Buti Patterned Sherwani set",
+            "price": "15,999",
+            "original_price": "",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage2_Product2.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage1_Product2_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product2_sub2.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product2_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product2_sub4.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product2_sub5.avif"
+            ],
+            "description": "This cream sherwani set features exquisite bel buti pattern embroidery, adorned with rhinestone work for a touch of glamour. The set includes an embroidered bandhgala collar, embellished golden ornate buttons, making it a complete ceremonial attire. For a regal wedding look, pair this sherwani with ivory mojaris and a traditional safa in a matching shade. Accessorize with a pearl necklace to highlight the rhinestone work and add an extra layer of elegance to your outfit.",
+            "isCategoryCover": false
+          },
+          {
+            "code": "SHERWANIS-003",
+            "name": "Grape Wine Jaal Embroidered Sherwani Set with Stone Work",
+            "price": "20,999",
+            "original_price": "22,999",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage2_Product3.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage1_Product3_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product3_sub2.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product3_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product3_sub4.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product3_sub5.avif"
+            ],
+            "description": "Make a regal statement with this grape wine sherwani set, intricately embroidered with a rich jaal pattern and adorned with shimmering stone work. The deep, luxurious hue exudes elegance, while the structured silhouette adds a bold, contemporary edge. Perfect for weddings and grand celebrations, this sherwani blends tradition with sophistication. Pair it with embroidered juttis for a power-packed look that redefines grace with confidence.",
+            "isCategoryCover": true
+          },
+          {
+            "code": "SHERWANIS-004",
+            "name": "Beige Cream Patterned Sherwani Set",
+            "price": "22,999",
+            "original_price": "25,999",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage2_Product4.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage1_Product4_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product4_sub2.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product4_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product4_sub4.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product4_sub5.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product4_sub6.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product4_sub7.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product4_sub8.avif"
+            ],
+            "description": "This Golden Cream sherwani set features a regal Fleur De Lis pattern is the perfect wedding outfit for a subtle royal wedding. The set is further enhanced with a mandarin collar, a welted breast pocket and self embroidered buttons, the sherwani is enriched with metallic golden embroidery all over. This sherwani is complete with a matching pajama and dupatta. Accessorise the outfit with soft golden jutis, a metallic bracelet and a contrasting stone studded mala for a polished look that is effortlessly royal.",
+            "isCategoryCover": false
+          },
+          {
+            "code": "SHERWANIS-005",
+            "name": "Antique White Floral Patterned Sequined Sherwani Set",
+            "price": "17,999",
+            "original_price": "",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage2_Product5.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage1_Product5_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product5_sub2.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product5_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product5_sub4.avif"
+            ],
+            "description": "Offering an opulent choice for special occasions, this antique white sherwani set dazzles with its floral embroidery and sequin work. The beaded bandhgala collar and buttons add a touch of sophistication. Perfectly paired with polished loafer shoes and traditional accessories for a regal look.",
+            "isCategoryCover": false
+          },
+          {
+            "code": "SHERWANIS-006",
+            "name": "Cream Georgette Sherwani",
+            "price": "16,999",
+            "original_price": "",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage2_Product6.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage1_Product6_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product6_sub2.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product6_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product6_sub4.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product6_sub5.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product6_sub6.avif"
+            ],
+            "description": "Crafted from luxurious Georgette fabric, this sherwani emanates a timeless cream hue. A perfect ensemble for the fashion-forward men, it exudes charm and elegance. Comes with complementary pajama and pocket square. Perfect for your unforgettable celebrations."
+          }
+        ]
+      }
+    ],
+    "NewArrival": [],
+    "Mix": []
+  },
+  "filename": "2025-11-02-142422-configuration.json",
+  "userEmail": "nitikesh@tambnick25.onmicrosoft.com",
+  "userName": "nitikesh",
+  "organizationName": "Bandhan",
+  "workspaceType": "organization"
+}

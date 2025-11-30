@@ -1,0 +1,453 @@
+{
+  "timestamp": "2025-11-30T13:41:24.771Z",
+  "data": {
+    "timestamp": "2025-11-30T13:41:24.771Z",
+    "brand": {
+      "brand_name": "Bandhan Store",
+      "brand_tagline": "",
+      "brand_logo": "/organizations/bandhan/upload_image/brand_brandlogo_1.avif"
+    },
+    "categories": [
+      {
+        "category_name": "SHERWANIS",
+        "category_image": "/organizations/bandhan/upload_image/Subpage1_Product3.avif",
+        "category_linked_subpage_name": "SHERWANIS",
+        "category_cover_product": {
+          "subpageIndex": 0,
+          "productIndex": 2,
+          "productName": "Grape Wine Jaal Embroidered Sherwani Set with Stone Work"
+        }
+      },
+      {
+        "category_name": "NEHRU JACKET",
+        "category_image": "/organizations/bandhan/upload_image/Subpage2_Product2_1.avif",
+        "category_linked_subpage_name": "NEHRU JACKET",
+        "category_cover_product": {
+          "subpageIndex": 1,
+          "productIndex": 1,
+          "productName": "Rose Pink Bel Buti Patterned Jacket"
+        }
+      },
+      {
+        "category_name": "KURTA JACKET SET",
+        "category_image": "/organizations/bandhan/upload_image/Subpage3_Product4.avif",
+        "category_linked_subpage_name": "KURTA JACKET SET",
+        "category_cover_product": {
+          "subpageIndex": 2,
+          "productIndex": 3,
+          "productName": "Poppy Red Triangular Patterned Jacket Set with Sequin Work"
+        }
+      },
+      {
+        "category_name": "INDO WESTERN",
+        "category_image": "/organizations/bandhan/upload_image/Subpage4_Product3.avif",
+        "category_linked_subpage_name": "INDO WESTERN",
+        "category_cover_product": {
+          "subpageIndex": 3,
+          "productIndex": 2,
+          "productName": "Rosewater Pink Diamond Patterned Indo Western Set"
+        }
+      }
+    ],
+    "hero": [
+      {
+        "title": "",
+        "image": "/organizations/bandhan/upload_image/Hero_1.jpg",
+        "category": ""
+      },
+      {
+        "title": "",
+        "image": "/organizations/bandhan/upload_image/Hero_2.webp",
+        "category": ""
+      },
+      {
+        "title": "",
+        "image": "/organizations/bandhan/upload_image/Hero_3.webp",
+        "category": ""
+      }
+    ],
+    "instagram": [],
+    "news": [
+      {
+        "headline": "Steal Deal : New Arrivals UPTO 20% Off!",
+        "link": ""
+      },
+      {
+        "headline": "PAY DAY SALE LIVE | Flat 20% Off: SALARY20 & Flat 15% Off: SALARY15",
+        "link": ""
+      }
+    ],
+    "story": [
+      {
+        "title": "",
+        "video": "",
+        "description": ""
+      }
+    ],
+    "footer": {
+      "footer_company": "",
+      "footer_address": "",
+      "footer_phone": "",
+      "footer_email": "",
+      "footer_copyright": ""
+    },
+    "subpages": [
+      {
+        "name": "SHERWANIS",
+        "products": [
+          {
+            "code": "SHERWANIS-001",
+            "name": "Pearl White Bel Buti Patterned Jacket",
+            "price": "5421",
+            "original_price": "9764",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage1_Product1.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage1_Product1_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product1_sub2.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product1_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product1_sub4.avif"
+            ],
+            "description": "With gilded bel buti patterns, this pearl white Nehru jacket showcases the elegance of Jacquard weave. The design is complemented by a welted pocket and ornate buttons, adding a touch of traditional sophistication. Ideal for formal occasions and weddings, this jacket can be paired with pastel hued kurta sets and matching pearl white jutis for a refined and ceremonial look.",
+            "isCategoryCover": false
+          },
+          {
+            "code": "SHERWANIS-002",
+            "name": "Cream Bel Buti Patterned Sherwani set",
+            "price": "15,999",
+            "original_price": "",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage1_Product2.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage1_Product2_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product2_sub2.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product2_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product2_sub4.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product2_sub5.avif"
+            ],
+            "description": "This cream sherwani set features exquisite bel buti pattern embroidery, adorned with rhinestone work for a touch of glamour. The set includes an embroidered bandhgala collar, embellished golden ornate buttons, making it a complete ceremonial attire. For a regal wedding look, pair this sherwani with ivory mojaris and a traditional safa in a matching shade. Accessorize with a pearl necklace to highlight the rhinestone work and add an extra layer of elegance to your outfit.",
+            "isCategoryCover": false
+          },
+          {
+            "code": "SHERWANIS-003",
+            "name": "Grape Wine Jaal Embroidered Sherwani Set with Stone Work",
+            "price": "20,999",
+            "original_price": "22,999",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage1_Product3.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage1_Product3_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product3_sub2.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product3_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product3_sub4.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product3_sub5.avif"
+            ],
+            "description": "Make a regal statement with this grape wine sherwani set, intricately embroidered with a rich jaal pattern and adorned with shimmering stone work. The deep, luxurious hue exudes elegance, while the structured silhouette adds a bold, contemporary edge. Perfect for weddings and grand celebrations, this sherwani blends tradition with sophistication. Pair it with embroidered juttis for a power-packed look that redefines grace with confidence.",
+            "isCategoryCover": true
+          },
+          {
+            "code": "SHERWANIS-004",
+            "name": "Beige Cream Patterned Sherwani Set",
+            "price": "22,999",
+            "original_price": "25,999",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage2_Product4.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage1_Product4_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product4_sub2.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product4_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product4_sub4.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product4_sub5.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product4_sub6.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product4_sub7.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product4_sub8.avif"
+            ],
+            "description": "This Golden Cream sherwani set features a regal Fleur De Lis pattern is the perfect wedding outfit for a subtle royal wedding. The set is further enhanced with a mandarin collar, a welted breast pocket and self embroidered buttons, the sherwani is enriched with metallic golden embroidery all over. This sherwani is complete with a matching pajama and dupatta. Accessorise the outfit with soft golden jutis, a metallic bracelet and a contrasting stone studded mala for a polished look that is effortlessly royal.",
+            "isCategoryCover": false
+          },
+          {
+            "code": "SHERWANIS-005",
+            "name": "Antique White Floral Patterned Sequined Sherwani Set",
+            "price": "17,999",
+            "original_price": "",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage2_Product5.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage1_Product5_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product5_sub2.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product5_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product5_sub4.avif"
+            ],
+            "description": "Offering an opulent choice for special occasions, this antique white sherwani set dazzles with its floral embroidery and sequin work. The beaded bandhgala collar and buttons add a touch of sophistication. Perfectly paired with polished loafer shoes and traditional accessories for a regal look.",
+            "isCategoryCover": false
+          },
+          {
+            "code": "SHERWANIS-006",
+            "name": "Cream Georgette Sherwani",
+            "price": "16,999",
+            "original_price": "",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage2_Product6.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage1_Product6_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product6_sub2.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product6_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product6_sub4.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product6_sub5.avif",
+              "/organizations/bandhan/upload_image/Subpage1_Product6_sub6.avif"
+            ],
+            "description": "Crafted from luxurious Georgette fabric, this sherwani emanates a timeless cream hue. A perfect ensemble for the fashion-forward men, it exudes charm and elegance. Comes with complementary pajama and pocket square. Perfect for your unforgettable celebrations."
+          }
+        ],
+        "isExpanded": true
+      },
+      {
+        "name": "NEHRU JACKET",
+        "products": [
+          {
+            "code": "NEHRUJACKET-001",
+            "name": "Snazzy Dark Blue Cotton Nehru Jacket",
+            "price": "2,624",
+            "original_price": "",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage2_Product1_1.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage2_Product1_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage2_Product1_sub2.avif",
+              "/organizations/bandhan/upload_image/Subpage2_Product1_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage2_Product1_sub4.avif",
+              "/organizations/bandhan/upload_image/Subpage2_Product1_sub5.avif"
+            ],
+            "description": "Make a stunning appearance with this snazzy dark blue Nehru Jacket. Crafted from premium cotton, it speaks volumes of elegance and sophistication. Perfect for your next big event, it adds a striking touch to your ensemble. Comes with a pocket pin for added style.",
+            "isCategoryCover": false
+          },
+          {
+            "code": "NEHRUJACKET-002",
+            "name": "Rose Pink Bel Buti Patterned Jacket",
+            "price": "5,499",
+            "original_price": "",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage2_Product2_1.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage2_Product2_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage2_Product2_sub2.avif",
+              "/organizations/bandhan/upload_image/Subpage2_Product2_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage2_Product2_sub4.avif"
+            ],
+            "description": "This Nehru jacket in rose pink is a work of art, featuring imperial floral patterns in a brocade weave, beautifully highlighted with stone work. The design includes an intricately embroidered bandhgala collar, a welted pocket, and an ornate buttoned placket. Perfect for celebratory occasions, complement this jacket with a silk kurta set and mojaris for an elegant, traditional look.",
+            "isCategoryCover": true
+          },
+          {
+            "code": "NEHRUJACKET-003",
+            "name": "Emerald Elegance Nehru Jacket",
+            "price": "7,999",
+            "original_price": "",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage2_Product3_1.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage2_Product3_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage2_Product3_sub2.avif",
+              "/organizations/bandhan/upload_image/Subpage2_Product3_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage2_Product3_sub4.webp",
+              "/organizations/bandhan/upload_image/Subpage2_Product3_sub5.avif"
+            ],
+            "description": "Crafted from plush velvet fabric in an intriguing Teal Green, this stylish Nehru Jacket is a must-have for any event. The rich color imparts an elegant sophistication while the excellent design ensures a flattering fit. Comes with complementary pocket pin, perfect to grace traditional and formal occasions with an impeccable look.",
+            "isCategoryCover": false
+          }
+        ],
+        "isExpanded": true
+      },
+      {
+        "name": "KURTA JACKET SET",
+        "products": [
+          {
+            "code": "KURTAJACKETSET-001",
+            "name": "Twilight Blue Floral Angrakha Style Kurta Jacket Set",
+            "price": "10,999",
+            "original_price": "",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage3_Product1_1.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage3_Product1_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product1_sub2.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product1_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product1_sub4.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product1_sub5.avif"
+            ],
+            "description": "Add a touch of flamboyance to your evening festive wardrobe with this twilight blue kurta and angrakha style jacket set. The enchanting floral pattern adds an element of intrigue to the jacket, which is decorated with a pocket square and metallic buttons on an angrakha closure. A matching blue kurta with contrasting outlines to complement the jacket comes with the ensemble. Style this set with black or brown leather sandals, a metallic bracelet and a chain brooch.",
+            "isCategoryCover": false
+          },
+          {
+            "code": "KURTAJACKETSET-002",
+            "name": "Natural Kurta Jacket Ensemble Set",
+            "price": "10,999",
+            "original_price": "",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage3_Product2_1.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage3_Product2_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product2_sub2.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product2_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product2_sub4.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product2_sub5.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product2_sub6.avif"
+            ],
+            "description": "Adorned in beige, this Kurta Jacket Set is a graceful blend of finesse and sophistication. Made from premium quality linen, the attire promises unequaled comfort and a nuanced style statement. The set comprises a kurta, jacket, and churidar, making it an ideal choice for festive celebrations or intimate weddings. Experience the charm of effortless elegance with this Kurta Jacket Set.",
+            "isCategoryCover": false
+          },
+          {
+            "code": "KURTAJACKETSET-003",
+            "name": "Antique White Floral Printed Jacket Set",
+            "price": "9,999",
+            "original_price": "",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage3_Product3_1.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage3_Product3_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product3_sub2.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product3_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product3_sub4.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product3_sub5.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product3_sub6.avif"
+            ],
+            "description": "Complemented by filigree buttons and a bandhgala collar, this antique white jacket set features a Nehru jacket with delightful pink and blue floral print. Paired with a sand beige kurta and off-white pyjama, it's perfect for occasions requiring a touch of elegance. Accessorize with simple jewellery for a complete look.",
+            "isCategoryCover": false
+          },
+          {
+            "code": "KURTAJACKETSET-004",
+            "name": "Poppy Red Triangular Patterned Jacket Set with Sequin Work",
+            "price": "8,999",
+            "original_price": "11,999",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage3_Product4.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage3_Product4_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product4_sub2.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product4_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product4_sub4.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product4_sub5.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product4_sub6.avif"
+            ],
+            "description": "Elevate your style with this poppy red triangular patterned jacket set. Featuring bold triangular patterns and shimmering sequin work, this jacket set combines vibrant color with eye-catching details for a truly standout look. Pair with a crisp white kurta and dark trousers for a striking contrast that's both elegant and modern.",
+            "isCategoryCover": true
+          },
+          {
+            "code": "KURTAJACKETSET-005",
+            "name": "Aqua Green Jaal Medallion Patterned Jacket Set",
+            "price": "7,999",
+            "original_price": "",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage3_Product5_1.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage3_Product5_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product5_sub2.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product5_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product5_sub4.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product5_sub5.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product5_sub6.avif"
+            ],
+            "description": "Step into refined elegance with our aqua green jaal medallion patterned jacket set for men. Crafted from premium fabric, this set features intricate jaal medallion patterns that exude sophistication and charm. The soft peach hue adds a touch of subtle luxury, making it perfect for weddings, receptions, and festive occasions. Pair this jacket set with ivory trousers and tan leather shoes for a polished look that effortlessly blends tradition with modern style.",
+            "isCategoryCover": false
+          },
+          {
+            "code": "KURTAJACKETSET-006",
+            "name": "Cream Beige Floral Buta Embroidered Jacket Set",
+            "price": "6,499",
+            "original_price": "",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage3_Product6_1.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage3_Product6_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product6_sub2.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product6_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product6_sub4.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product6_sub5.avif",
+              "/organizations/bandhan/upload_image/Subpage3_Product6_sub6.avif"
+            ],
+            "description": "Elevate your style with this cream beige floral buta embroidered jacket set, designed to capture timeless elegance. Crafted from premium fabric, the intricate floral buta embroidery adds a touch of regal charm, while the soothing beige hue complements all occasions. Style it with a crisp white kurta and dark trousers for a sophisticated look that commands attention.",
+            "isCategoryCover": false
+          }
+        ],
+        "isExpanded": true
+      },
+      {
+        "name": "INDO WESTERN",
+        "products": [
+          {
+            "code": "INDOWESTERN-001",
+            "name": "Windsor Wine Angrakha Style Indo Western Set",
+            "price": "12,999",
+            "original_price": "",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage4_Product1.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage4_Product1_sub5.avif",
+              "/organizations/bandhan/upload_image/Subpage4_Product1_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage4_Product1_sub2.avif",
+              "/organizations/bandhan/upload_image/Subpage4_Product1_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage4_Product1_sub4.avif"
+            ],
+            "description": "The windsor wine angrakha style Indo Western set features an elegant combination of black and gold bel buti embroidery patterns, complemented by rhinestone work. The set includes an embellished buttoned, embroidered bandhgala collar, adding a touch of sophistication. Ideal for formal occasions, pair this set with polished shoes. Accessorize with a metal watch or cufflinks to enhance the outfit's luxurious feel.",
+            "isCategoryCover": false
+          },
+          {
+            "code": "INDOWESTERN-002",
+            "name": "Emerald Green Angrakha Style Indo Western Set",
+            "price": "12,999",
+            "original_price": "",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage4_Product2_1.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage4_Product2_sub5.avif",
+              "/organizations/bandhan/upload_image/Subpage4_Product2_sub6.avif",
+              "/organizations/bandhan/upload_image/Subpage4_Product2_sub7.avif"
+            ],
+            "description": "Featuring a bel buti pattern with filigree buttons and rhinestone work on an asymmetrical hem angrakha style jacket, this emerald green angrakha style Indo Western set is a magnificent ensemble. The embroidered bandhgala adds to its elegance. This set comes with a cloud cream dhoti, perfect for weddings or formal events. Pair with traditional footwear and accessorize with a metallic kada or bracelet for a complete look.",
+            "isCategoryCover": false
+          },
+          {
+            "code": "INDOWESTERN-003",
+            "name": "Rosewater Pink Diamond Patterned Indo Western Set",
+            "price": "12,999",
+            "original_price": "",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage4_Product3.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage4_Product3_sub5.avif",
+              "/organizations/bandhan/upload_image/Subpage4_Product3_sub4.avif",
+              "/organizations/bandhan/upload_image/Subpage4_Product3_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage4_Product3_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage4_Product3_sub2.avif"
+            ],
+            "description": "This rosewater pink Indo Western set exudes a delicate elegance, featuring diamond motifs with embellished buttons and an embroidered bandhgala collar adorned with rhinestone work. This set, paired with an off-white trouser, is perfect for weddings or formal occasions. Complement this ensemble with polished shoes and a silver brooch for a sophisticated and complete look.",
+            "isCategoryCover": true
+          },
+          {
+            "code": "INDOWESTERN-004",
+            "name": "Tea green Diamond Patterned Indo Western Set",
+            "price": "12,999",
+            "original_price": "",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage4_Product4.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage4_Product4_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage4_Product4_sub2.avif",
+              "/organizations/bandhan/upload_image/Subpage4_Product4_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage4_Product4_sub4.avif",
+              "/organizations/bandhan/upload_image/Subpage4_Product4_sub5.avif"
+            ],
+            "description": "Featuring golden buta motifs enclosed in diamond patterns, the tea green diamond patterned Indo Western set is a distinguished ensemble. The embellished buttons and embroidered bandhgala collar add to its regal appeal. This set comes with an off-white trouser, making it perfect for weddings or formal events. Pair with polished shoes and a golden pocket square for a sophisticated look.\n",
+            "isCategoryCover": false
+          },
+          {
+            "code": "INDOWESTERN-005",
+            "name": "Soft Green Grid Patterned Indo Western Set with Floral Motifs",
+            "price": "17,999",
+            "original_price": "",
+            "cover_photo": "/organizations/bandhan/upload_image/Subpage4_Product5.avif",
+            "gallery_photos": [
+              "/organizations/bandhan/upload_image/Subpage4_Product5_sub1.avif",
+              "/organizations/bandhan/upload_image/Subpage4_Product5_sub2.avif",
+              "/organizations/bandhan/upload_image/Subpage4_Product5_sub3.avif",
+              "/organizations/bandhan/upload_image/Subpage4_Product5_sub4.avif"
+            ],
+            "description": "This soft green indo western set brings a fresh vibe to traditional menswear. The grid pattern offers a modern twist, while delicate floral motifs add a dash of elegance. Crafted with rich fabric, the set exudes both comfort and style. Pair it with beige or gold accessories for a complete look that's both contemporary and timeless.",
+            "isCategoryCover": false
+          }
+        ],
+        "isExpanded": true
+      }
+    ],
+    "NewArrival": [],
+    "Mix": []
+  },
+  "filename": "2025-11-03-192143-configuration.json",
+  "userEmail": "nitikesh@tambnick25.onmicrosoft.com",
+  "userName": "nitikesh",
+  "organizationName": "Bandhan",
+  "workspaceType": "organization",
+  "publishedAt": "2025-11-30T13:41:31.929Z",
+  "publishedBy": "nitikesh@tambnick25.onmicrosoft.com",
+  "publishVersion": "published-2025-11-30T13-41-31-929Z.json"
+}
